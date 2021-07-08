@@ -1,0 +1,25 @@
+th{
+	background-color:blue;
+	font-family:sans-serif;
+	text-align: center;
+	font-size:22;
+	font-weight:800px;
+	color:white;
+	}
+tr{
+	text-align:center;
+	font-family:sans-serif;
+	}
+table{
+	border color:black;
+	border-collapse:collapse;
+	border-width:2px;
+	border-style:double;
+}
+
+h1{
+
+	color:pink;
+	font-family:inherit;
+	text-align:center;
+}
